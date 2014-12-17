@@ -4,6 +4,8 @@
 
 Run OpenOffice in docker container? Awesome!
 
+![](screenshot.png)
+
 ## Usage
 
 ```
