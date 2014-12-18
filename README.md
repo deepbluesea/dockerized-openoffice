@@ -1,5 +1,7 @@
 # Dockerized OpenOffice
 
+![](openoffice_and_docker.png)
+
 ## Introduction
 
 Run OpenOffice in docker container? Awesome :+1: 
