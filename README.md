@@ -9,8 +9,6 @@ Run OpenOffice in docker container? Awesome :+1:
 ## Usage
 
 ```
-git clone https://github.com/tobegit3hub/dockerized-openoffice.git
-docker build -t tobegit3hub/dockerized-openoffice .
 docker run -i -t -p 6080:6080 tobegit3hub/dockerized-openoffice
 ```
 
