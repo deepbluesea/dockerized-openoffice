@@ -11,7 +11,7 @@ Run OpenOffice in docker container? Awesome :+1:
 ## Usage
 
 ```
-docker run -i -t -p 6080:6080 tobegit3hub/dockerized-openoffice
+docker run -d -p 6080:6080 tobegit3hub/dockerized-openoffice
 ```
 
 Then go to <http://127.0.0.1:6080/vnc.html> for OpenOffice.
